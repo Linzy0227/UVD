@@ -29,31 +29,28 @@ For the English version of the README, please visit [README-EN](./README-EN.md).
 ## 水下图像增强数据集
 
 ### 表 1：水下视觉增强数据集总结
-| 数据集       | 年份 | 下载链接                                      | 备注                     |
-|--------------|------|-----------------------------------------------|------------------------|
-| TURBID       | 2016 | [Download](https://ieee-dataport.org/documents/turbid-underwater-image)                                  |            |
-| NWPU         | 2018 | [Download]()                                  | 需要申请                |
-| OceanDark    | 2019 | [Download](https://sites.google.com/view/oceandark/home)                                  |                        |
-| U45          | 2019 | [Download](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-)                                  |                        |
-| Sea_Thru     | 2019 | [Download](https://www.kaggle.com/datasets/colorlabeilat/seathru-dataset)                                  |                        |
-| EUVP         | 2020 | [Download](https://irvlab.cs.umn.edu/resources/euvp-dataset)                                  |                        |
-| UIEB         | 2020 | [Download](https://li-chongyi.github.io/proj_benchmark.html)                                  |                        |
-| SUID         | 2020 | [Download](https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset)                                  |                        |
-| UOQ          | 2020 | [Download]()                                  | 需要申请 |
-| RUIE         | 2020 | [Download](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)                                  |                        |
-| USR-248      | 2020 | [Download](https://irvlab.cs.umn.edu/resources/usr-248-dataset)                                  |                        |
-| SQUID        | 2021 | [Download](https://opendatalab.com/OpenDataLab/SQUID/tree/main)                                  |                        |
-| UWIQA        | 2021 | [Download]()                                  | 需要申请              |
-| LNRUD        | 2022 | [Download](https://github.com/Ephemeral182/UWNR)                                  |                        |
-| UIED         | 2022 | [Download](https://github.com/z21110008/UIF)                                  |                        |
-| UEIQA        | 2022 | [Download]()                                  | 需要申请                |
-| UVE-38K      | 2022 | [Download](https://github.com/TrentQiQ/UVE-38K)                                  |                        |
-| LSUI         | 2023 | [Download](https://lintaopeng.github.io/_pages/UIE%20Project%20Page.html)                                  |                        |
-| UID2021      | 2023 | [Download](https://github.com/Hou-Guojia/UID2021)                                  |                        |
-| UIDEF        | 2023 | [Download](https://github.com/LaibinChang/UIDEF)                                  |                        |
-| CSUID        | 2024 | [Download](https://data.mendeley.com/datasets/2mcwfc5dvs/2)                                  |                        |
-| UVEB         | 2024 | [Download](https://github.com/yzbouc/UVEB)                                  |                        |
-| SUVE         | 2024 | [Download](https://github.com/ddz16/UVENet)                                  |                        |
+| 数据集      | 年份 | 下载链接                                      | 备注                     |
+|-------------|------|-----------------------------------------------|------------------------|
+| TURBID      | 2016 | [Download](https://ieee-dataport.org/documents/turbid-underwater-image)                                  |            |
+| OceanDark   | 2019 | [Download](https://sites.google.com/view/oceandark/home)                                  |                        |
+| U45         | 2019 | [Download](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-)                                  |                        |
+| Sea     | 2019 | [Download](https://www.kaggle.com/datasets/colorlabeilat/seathru-dataset)                                  |                        |
+| EUVP        | 2020 | [Download](https://irvlab.cs.umn.edu/resources/euvp-dataset)                                  |                        |
+| UIEB        | 2020 | [Download](https://li-chongyi.github.io/proj_benchmark.html)                                  |                        |
+| SUID        | 2020 | [Download](https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset)                                  |                        |
+| UOQ         | 2020 | [Download]()                                  | 需要申请 |
+| RUIE        | 2020 | [Download](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)                                  |                        |
+| USR      | 2020 | [Download](https://irvlab.cs.umn.edu/resources/usr-248-dataset)                                  |                        |
+| SQUID       | 2021 | [Download](https://opendatalab.com/OpenDataLab/SQUID/tree/main)                                  |                        |
+| LNRUD       | 2022 | [Download](https://github.com/Ephemeral182/UWNR)                                  |                        |
+| UIED        | 2022 | [Download](https://github.com/z21110008/UIF)                                  |                        |
+| UVE-38K     | 2022 | [Download](https://github.com/TrentQiQ/UVE-38K)                                  |                        |
+| LSUI        | 2023 | [Download](https://lintaopeng.github.io/_pages/UIE%20Project%20Page.html)                                  |                        |
+| UID2021     | 2023 | [Download](https://github.com/Hou-Guojia/UID2021)                                  |                        |
+| UIDEF       | 2023 | [Download](https://github.com/LaibinChang/UIDEF)                                  |                        |
+| CSUID       | 2024 | [Download](https://data.mendeley.com/datasets/2mcwfc5dvs/2)                                  |                        |
+| UVEB        | 2024 | [Download](https://github.com/yzbouc/UVEB)                                  |                        |
+| SUVE        | 2024 | [Download](https://github.com/ddz16/UVENet)                                  |                        |
 
 ---
 
@@ -68,13 +65,11 @@ For the English version of the README, please visit [README-EN](./README-EN.md).
 | FishCLEF 2014         | 2014 | [Download](https://www.imageclef.org/2014/lifeclef/fish)                                                                  |                     |
 | FishCLEF 2015         | 2015 | [Download](https://www.imageclef.org/lifeclef/2015/fish)                                                                  |                     |
 | NCFM                  | 2016 | [Download](https://kaggle.com/competitions/the-nature-conservancy-fisheries-monitoring)                                   |                     |
-| MOUSS                 | 2017 | [Download](https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C01650/html)                     |                     |
 | WildFish              | 2018 | [Download](https://github.com/PeiqinZhuang/WildFish)                                                                      |                     |
 | DIDSON                | 2018 | [Download](https://springernature.figshare.com/articles/dataset/Raw_DIDSON_Dataset_by_Fish_Species/6016325?file=10838268) |                     |
 | CADDY-Gesture         | 2019 | [Download](http://www.caddian.eu/)                                                                                        |                     |
 | CADDY-Pose            | 2019 | [Download](http://www.caddian.eu/)                                                                                        |                     |
 | Fish-gres             | 2020 | [Download](https://data.mendeley.com/datasets/76cr3wfhff/1)                                                               |                     |
-| SeabedObjects-KLSG    | 2020 | [Download](https://www.kaggle.com/datasets/enochkwatehdongbo/seabedobjects-klsg-dataset)                                  |                     |
 | SEAMAPD21             | 2021 | [Download](https://github.com/SEFSC/SEAMAPD21)                                                                            |                     |
 | WildFish++            | 2021 | [Download](https://github.com/PeiqinZhuang/WildFish++)                                                                    |                      |
 | CoralNet              | 2021 | [Download](https://coralnet.ucsd.edu/)                                                                                    |                     |
@@ -96,16 +91,11 @@ For the English version of the README, please visit [README-EN](./README-EN.md).
 
 | 数据集                      | 年份 | 下载链接                                      | 备注                        |
 |-----------------------------|------|-----------------------------------------------|---------------------------|
-| Fish4K-Species              | 2012 | [Download](https://homepages.inf.ed.ac.uk/rbf/Fish4Knowledge/resources.htm#)                                  |         |
-| Fish4K-Trajectory           | 2013 | [Download](https://homepages.inf.ed.ac.uk/rbf/Fish4Knowledge/resources.htm#)                                  |  |
 | Fish4K-Complex              | 2014 | [Download](https://homepages.inf.ed.ac.uk/rbf/Fish4Knowledge/resources.htm#)                                  |                    |
 | Labeled Fishes in the Wild  | 2015 | [Download](https://www.fisheries.noaa.gov/west-coast/science-data/labeled-fishes-wild)                                  |                           |
 | OUC-VISION                  | 2017 | [Download](https://ieeexplore.ieee.org/abstract/document/8019324)                                  |                 |
 | Brackish                    | 2019 | [Download](https://www.kaggle.com/datasets/aalborguniversity/brackish-dataset)                                  |                           |
-| Marine Litter               | 2019 | [Download](https://datasetsearch.research.google.com/search?query=marine%20litter&docid=L2cvMTF4ZmI2cmRwcw%3D%3D)             |                   |
 | Trash-ICRA19                | 2020 | [Download](https://irvlab.cs.umn.edu/resources/trash-icra19)                                  |                           |
-| VDD-C                       | 2020 | [Download](https://irvlab.cs.umn.edu/vddc)                                  |                           |
-| UWD                         | 2020 | [Download]( https://github.com/Peterchen111/FERNet)                                  |                          |
 | DUO                         | 2021 | [Download](https://github.com/chongweiliu/DUO)                                  |                           |
 | UODD                        | 2021 | [Download](https://github.com/LehiChiang/Underwater-object-detection-dataset)                                  |                           |
 | URPC2017                    | 2022 | [Download](https://github.com/liujiahui1998/UnderwaterDataset)                                  |                           |
@@ -125,7 +115,6 @@ For the English version of the README, please visit [README-EN](./README-EN.md).
 | MKUO                        | 2024 | [Download](https://cslinzhang.github.io/MKUO-and-Sparse-Ghost-Module/)                                  |                           |
 | SSSforMineDetection         | 2024 | [Download](https://figshare.com/articles/dataset/_i_Side-scan_sonar_imaging_for_Mine_detection_i_/24574879)                                  |                           |
 | UXO                         | 2024 | [Download](https://zenodo.org/records/11068046)                                  |                           |
-| UOD-SZTU-2025               | 2025 | [Download](https://www.sciencedirect.com/science/article/pii/S0925231225015632)                                  |                          |
 | SWDD                        | 2025 | [Download](https://zenodo.org/records/10528135)                                  |                           |
 
 
@@ -138,7 +127,6 @@ For the English version of the README, please visit [README-EN](./README-EN.md).
 
 | 数据集                     | 年份 | 下载链接                                      | 备注        |
 |----------------------------|------|-----------------------------------------------|-----------|
-| Mosaic UCSD                | 2017 | [Download](https://link.springer.com/article/10.1007/s00338-017-1624-3)                                  |  |
 | DeepFish                   | 2020 | [Download](https://github.com/alzayats/DeepFish)                                  |           |
 | SUIM                       | 2020 | [Download](https://irvlab.cs.umn.edu/resources/suim-dataset)                                  |           |
 | WaterDataset               | 2020 | [Download](https://www.kaggle.com/datasets/gvclsu/water-segmentation-dataset)                                  |           |
@@ -148,7 +136,6 @@ For the English version of the README, please visit [README-EN](./README-EN.md).
 | NAUTEC UWI Sim1000         | 2021 | [Download](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvcyFBcEFicTRVZmJmempoekU2dHRpVHR4ZHBNZzlp&id=E3FC6D1F85AB1B90%21945&cid=E3FC6D1F85AB1B90)                                  |           |
 | MAS3K                      | 2021 | [Download](https://github.com/LinLi-DL/MAS)                                  |           |
 | Marine Debris              | 2021 | [Download](https://github.com/mvaldenegro/marine-debris-fls-datasets/)                                  |           |
-| UDD                        | 2022 | [Download](https://github.com/chongweiliu/UDD_Official)                                  |           |
 | CleanSea                   | 2022 | [Download](https://www.dlsi.ua.es/~jgallego/datasets/cleansea/)                                  |           |
 | e-CleanSea                 | 2022 | [Download](https://www.dlsi.ua.es/~jgallego/datasets/cleansea/)                                  |           |
 | SASSED                     | 2022 | [Download](https://data.mendeley.com/datasets/s5j5gzr2vc/4)                                  |           |
@@ -172,15 +159,13 @@ For the English version of the README, please visit [README-EN](./README-EN.md).
 
 | 数据集               | 年份 | 下载链接                                      | 备注      |
 |-------------------|------|-----------------------------------------------|---------|
-| MUED PART A       | 2019 | [Download](https://zenodo.org/records/2542305)                                  |         |
-| MUED PART B       | 2019 | [Download](https://zenodo.org/records/2542307)                                  |         |
+| MUED        | 2019 | [Download](https://zenodo.org/records/2542305)                                  |         |
 | UFO-120           | 2019 | [Download](https://irvlab.cs.umn.edu/resources/ufo-120-dataset)                                  |         |
 | TrashCan-Material | 2020 | [Download](https://irvlab.cs.umn.edu/resources/trashcan)                                  |         |
 | TrashCan-Instance | 2020 | [Download](https://irvlab.cs.umn.edu/resources/trashcan)                                  |         |
 | USOD              | 2022 | [Download](https://irvlab.cs.umn.edu/resources/usod-dataset)                                  |         |
 | UIIS              | 2023 | [Download](https://github.com/LiamLian0727/WaterMask)                                  |         |
 | Aqua-Test         | 2023 | [Download](https://www.kaggle.com/datasets/mikurules/aqua-test)                                  |         |
-| UW-RS             | 2023 | [Download](https://arxiv.org/abs/2303.12946.pdf)                                  |    |
 | MARIS             | 2024 | [Download](https://www.nature.com/articles/s41597-024-03759-2)                                  |         |
 | USIS10K           | 2024 | [Download](https://github.com/LiamLian0727/USIS10K)                                  |         |
 | COU               | 2025 | [Download](https://irvlab.cs.umn.edu/resources/cou-common-objects-underwater)                                  |         |
@@ -195,8 +180,9 @@ For the English version of the README, please visit [README-EN](./README-EN.md).
 
 ### 表 6：水下目标跟踪数据集总结
 
-| 数据集         | 年份 | 下载链接                                      | 备注 |
+| 数据集         | 年份   | 下载链接                                      | 备注 |
 |----------------|------|-----------------------------------------------|------|
+| Fish4K-Trajectory          | 2013 | [Download](https://homepages.inf.ed.ac.uk/rbf/Fish4Knowledge/resources.htm#)                                  |
 | UOT32          | 2019 | [Download](https://www.kaggle.com/datasets/landrykezebou/uot32-underwater-object-tracking-dataset)                                  |      |
 | 3D-ZeF         | 2020 | [Download](https://vap.aau.dk/3d-zef/)                                  |      |
 | UOT100         | 2022 | [Download](https://www.kaggle.com/datasets/landrykezebou/uot100-underwater-object-tracking-dataset)                                  |      |
@@ -255,10 +241,15 @@ For the English version of the README, please visit [README-EN](./README-EN.md).
 如果本仓库对您的研究有帮助，请引用我们的论文：
 
 ```bibtex
-@article{Li_2025_UVD,
-  title={A survey of underwater visual datasets for ocean intelligence},
-  author={Hua Li, Zhiyuan Li, Jiawei Liu, Runmin Cong},
-  year={2025}
+@article{li2026survey_zh,
+  author = {李华 and 李志远 and 刘家伟 and 丛润民},
+  title = {面向海洋智能的水下视觉数据集综述},
+  journal = {中国图象图形学报},
+  volume = {31},
+  number = {5},
+  pages = {0001--0026},
+  year = {2026},
+  doi = {10.11834/jig.250483}
 }
 ```
 
